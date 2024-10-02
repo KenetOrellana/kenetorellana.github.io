@@ -295,4 +295,25 @@ footer .logo-footer {
     main {
         padding: 248.97px 0px 0px 0px;
     }
+
+    .pie-de-pagina {
+        padding: 100px;
+        background-color: #1c1c1c;
+    }
+
+    .logo-pie-de-pagina {
+        width: auto;
+    }
+
+    .leyenda-copyright-pie-de-pagina{
+        font-size: 10px;
+    }
+
+    .logo-footer {
+        padding: 20px;
+        position: relative;
+        max-width: 100%;
+        height: auto;
+        width: 200px;
+    }
 }
