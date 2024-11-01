@@ -179,6 +179,7 @@ main {
 
 .descripcion-tarjeta {
     text-align: justify;
+    margin-bottom: 20px;
 }
 
 .pie-de-pagina {
