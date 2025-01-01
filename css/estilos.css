@@ -244,20 +244,6 @@ main {
     filter: grayscale(100%);
 }
 
-.logo-ingenieria-en-sistemas {
-    height: 100px;
-    background-image: url('/img/Logo-Ingenieria-en-Sistemas.png');
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: block;
-    transition: filter 0.2s ease;
-}
-
-.logo-ingenieria-en-sistemas:hover {
-    filter: grayscale(100%);
-}
-
 .logo-facultad-de-ingenieria {
     height: 100px;
     background-image: url('/img/Logo-Facultad-de-Ingenieria.png');
@@ -269,6 +255,20 @@ main {
 }
 
 .logo-facultad-de-ingenieria:hover {
+    filter: grayscale(100%);
+}
+
+.logo-ingenieria-en-sistemas {
+    height: 100px;
+    background-image: url('/img/Logo-Ingenieria-en-Sistemas.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    transition: filter 0.2s ease;
+}
+
+.logo-ingenieria-en-sistemas:hover {
     filter: grayscale(100%);
 }
 
