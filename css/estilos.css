@@ -363,6 +363,14 @@ footer .logo-footer {
         padding: 248.97px 0px 0px 0px;
     }
 
+    .subtitulo-contenido-tarjeta {
+        font-size: 15px;
+    }
+
+    .lista-movil {
+        font-size: 15px;
+    }
+
     .pie-de-pagina {
         padding: 100px;
         background-color: #1c1c1c;
